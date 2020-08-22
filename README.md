@@ -1,11 +1,12 @@
 
 
-#  Magic-8 Ball
+#  Xylophone
 
-A dice roll app. You can make the die roll at the press of a button or by shaking your phone. After that, two dice will be rolled.
+A Xylophone app with 7 different notes and built using Apple API AVFoundation and AVAudioPlayer
 
 ## Finished App
-![Finished App](https://github.com/GavinWon/DiceRoll/blob/master/diceroll.png)
+<img src="https://github.com/GavinWon/Magic-8-Ball/blob/master/xylophone.png" alt="Finished App" width=300>
+
 
 
 
